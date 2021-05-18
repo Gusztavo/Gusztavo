@@ -1,14 +1,16 @@
 
 <h2 align="center">
- == About me ==
+ == &#128187 About me &#128187 ==
 </h2>
 
 - 16y 
 
 - Currently living in Resende/RJ
 
+- I'm looking for a job as a junior programmer
+
 <h2 align="center">
- -- Learning --
+ -- &#127891 Learning &#127891 --
 </h2>
 
 - Learning python on Senai with @profxx
@@ -25,7 +27,7 @@
   
   
 <h2 align="center">
-  -- Talk to me --
+  -- &#9993 Talk to me &#9993 --
 </h2>
 
 
