@@ -5,7 +5,7 @@
 
 - 16y 
 
-- Actualy living on Resende/RJ
+- Currently living in Resende/RJ
 
 <h2 align="center">
  -- Learning --
