@@ -1,4 +1,4 @@
-
+<body bgcolor="black">
 <h2 align="center">
  == &#128187 About me &#128187 ==
 </h2>
@@ -36,4 +36,4 @@
 &nbsp; <a href="https://discord.gg/python" target="_blank" rel="noopener noreferrer"><img                 src="https://github.com/GustavoNicolino777/GustavoNicolino777/blob/main/discord-logo.png?raw=true"  width="48" />
 </a>
 </p>
-
+</body>
