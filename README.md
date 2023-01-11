@@ -3,7 +3,7 @@
  == &#128187 About me &#128187 ==
 </h2>
 
-- 16y 
+- 18y 
 
 - Currently living in Resende/RJ
 
