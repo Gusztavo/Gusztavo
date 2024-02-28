@@ -3,11 +3,11 @@
  == &#128187 About me &#128187 ==
 </h2>
 
-- 18y 
+- 19y 
 
 - Currently living in Resende/RJ
 
-- I'm looking for a job as a junior programmer
+
 
 <h2 align="center">
  -- &#127891 Learning &#127891 --
